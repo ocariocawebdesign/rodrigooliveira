@@ -1,0 +1,3128 @@
+
+body{
+
+  background-color: #000;
+  /*background-image: url(../img/fundo2.jpg);*/
+  background-repeat: no-repeat;
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: 'Anton', sans-serif;
+
+
+}
+
+.linkrodape{
+
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+
+}
+
+
+a:focus{
+
+ display: inline-block;
+ text-decoration: none;
+
+}
+
+
+.img-logo{
+
+
+  float: right;
+
+
+}
+
+
+
+.img-logo2{
+
+
+margin: auto;
+
+
+}
+
+
+
+.conteudo-rede-social{
+
+  width: 120px;
+  height: 50px;
+  float: left;
+
+  padding:2px;
+  display:inline-block;
+  margin-left: 40px;
+
+
+}
+
+.conteudo-main{
+
+
+
+          width: 100%;
+          height: 100%;
+
+          border: 1px solid #151515;
+
+
+          background-image: url(../img/fundo4.jpg);
+          background-position: center;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          background-size: cover;
+          -o-background-size: cover;
+
+          margin: auto;
+          padding: 0;
+
+}
+
+
+
+.foto-perfil{
+
+
+
+
+
+}
+
+
+
+.foto-btt{
+
+
+ margin-top: 5px;
+ border:2px solid #151515;
+ border-radius: 2px;
+}
+
+
+
+
+.h1-font{
+     margin-bottom: 10px;
+
+     font-family: 'Anton', sans-serif;
+     font-weight: normal;
+     color:#E6E6E6;
+     font-size:70px;
+     text-shadow: 0.1em 0.1em 0.2em black;
+
+
+}
+
+.h2-font{
+
+
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 700;
+     color:#FFBA00;
+     font-size: 20px;
+     text-transform: uppercase;
+     text-shadow: 0.1em 0.1em 0.2em black;
+
+
+}
+
+
+.h2-font2{
+
+
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      color:#fff;
+      font-size: 16px;
+      text-shadow: 0.1em 0.1em 0.2em black;
+
+
+
+}
+
+.h2-font3{
+
+
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 700;
+     color:#fff;
+     font-size: 16px;
+
+
+
+}
+
+.small-font{
+
+ font-family: 'Montserrat', sans-serif;
+ color: #FFBA00;
+ font-weight: 700;
+
+
+
+}
+
+
+#social-box{
+
+   width:80%;
+   height: 20%;
+   padding: 1%;
+
+
+
+
+
+}
+
+
+.social-img{
+
+ display: inline-block;
+
+
+}
+
+
+.facebook-icon1{
+
+   width:32px;
+   height: 32px;
+   display: inline-block;
+
+
+
+
+}
+
+
+.instagram-icon1{
+
+   width:32px;
+   height: 32px;
+   display: inline-block;
+   margin-left: 20%;
+
+
+
+
+}
+
+.botao-font{
+
+ color:#333;
+ text-transform: uppercase;
+ margin-top: 10px;
+ background-color:#FFBA00;
+ font-family: 'Montserrat', sans-serif;
+ font-size:12px;
+
+
+
+
+}
+
+main{
+
+padding: 20px;
+margin: auto;
+
+
+}
+
+.figure-center{
+
+
+
+ border:2px solid #000;
+ border-radius: 3px;
+
+
+
+}
+
+.img-opacidade {
+    /*opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+a{
+
+ text-decoration: none;
+ display:block;
+ color:#FFBA00;
+
+
+
+
+
+
+
+}
+
+.estilo-a{
+
+text-decoration: none;
+padding: 10px;
+margin-right: 20px;
+margin-top:20px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+font-size:16px;
+
+
+
+}
+
+a:hover{
+
+text-decoration: none;
+color:#FFBA00;
+
+}
+
+
+.position-slide{
+
+
+  margin: auto;
+
+
+}
+
+
+
+header{
+
+          background-color: #000;
+
+          position: relative;
+          width: 100%;
+          height: auto;
+
+
+
+
+}
+
+
+
+.nav-estilo{
+
+background-color:#151515;
+padding: 10px;
+margin: auto;
+border: 1px solid #151515;
+
+
+
+}
+
+
+
+.bg-primary{
+
+
+ background-color: #020202;
+
+
+}
+
+
+.box-2{
+
+
+
+
+   width:100%;
+   height:1320px;
+   border: 2px solid #000;
+
+    padding:60px;
+    padding-left: 50px;
+    background-color: #020202;
+    background-image: url(../img/jiu.jpg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    margin: auto;
+    display: block;
+
+
+
+
+
+
+}
+
+
+.conteudo-primario{
+
+  width:180px;
+  height:180px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+
+.conteudo-secon{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   margin-left: 10px;
+   margin-right: 10px;
+   display: block;
+
+   margin-top:10px;
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+
+}
+
+.conteudo-terc{
+
+  width:180px;
+  height:180px;
+
+   float: left;
+   margin-left: 10px;
+   margin-right: 10px;
+
+   margin-top:10px;
+
+  /*background-color: #151515;
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+.conteudo-quart{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top:10px;
+
+
+}
+
+
+.conteudo-5{
+
+   width:120px;
+   height:120px;
+
+   /*border: 1px solid #000;*/
+   float: left;
+    margin-left: 10px;
+   margin-right: 10px;
+   margin-top:10px;
+
+
+}
+
+.conteudo-6{
+
+  width:180px;
+  height:180px;
+
+   float: left;
+    margin-left: 10px;
+   margin-right: 10px;
+   margin-top:10px;
+
+}
+
+.conteudo-7{
+
+
+  width:140px;
+  height:140px;
+  float: left;
+  margin-left: 8%;
+  margin-top:10px;
+
+}
+
+.conteudo-8{
+
+  width:180px;
+  height:180px;
+
+   float: left;
+
+   margin-right: 20px;
+   margin-top:10px;
+   margin-left: 4%;
+
+
+
+}
+
+
+
+.conteudo-9{
+
+  width:130px;
+  height:130px;
+
+   float: left;
+    margin-left: 10px;
+   margin-right: 10px;
+   margin-top:10px;
+
+
+}
+
+
+
+.conteudo-10{
+
+    width:180px;
+    height:180px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:10px;
+
+
+
+}
+
+
+
+.conteudo-11{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top:10px;
+
+
+
+}
+
+
+
+.conteudo-12{
+
+  width:160px;
+  height:160px;
+
+   float: left;
+   margin-left: 5px;
+   margin-right: 1%;
+   margin-top:10px;
+
+
+
+
+
+}
+
+
+
+.conteudo-13{
+
+  width:170px;
+  height:170px;
+
+   float: left;
+   margin-left:45%;
+   margin-right: 4%;
+
+
+}
+
+
+.conteudo-14{
+
+  width:180px;
+  height:180px;
+   float: left;
+   margin-right: 10px;
+   margin-top:10px;
+
+
+}
+
+
+
+
+
+.box-historia{
+
+   width:100%;
+   height:520px;
+   border: 1px solid #000;
+   margin:0;
+   padding: 20px;
+   background-color:#020202;
+   position: center;
+   margin: auto;
+   /*background-image: url(../img/jiu.jpg);/
+   background-repeat: no-repeat;
+   position: relative;*/
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+   /*background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+
+
+}
+
+
+
+
+
+.conteudo-footer1{
+
+   width:35%;
+   height:100%;
+
+
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+   margin-right: 2%;
+
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+.conteudo-footer2{
+
+   width:30%;
+   height:100%;
+
+   border-radius: 3px;
+   float: left;
+   padding:2%;
+   padding-left: 3%;
+
+   margin-left: 5px;
+   margin-top: 1%;
+
+
+   /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer3{
+
+   width:28%;
+   height:100%;
+
+   float: left;
+   padding: 10px;
+
+   margin-left: 20px;
+   margin-top: 1%;
+
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer4{
+
+   width:100%;
+   height:20px;
+   border: 1px solid #000;
+   float: left;
+   padding: 2px;
+
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+
+#social-box{
+
+   width:100%;
+   height: 20%;
+
+
+}
+
+
+
+
+.conteudo-apoio{
+
+
+   width:35%;
+   height:100%;
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-right: 22%;
+   background-repeat: no-repeat;
+
+}
+
+
+.conteudo-apoio2{
+
+
+   width:38%;
+   height:80%;
+   float: left;
+   padding: 2px;
+
+
+   margin-right: 2%;
+   background-repeat: no-repeat;
+
+}
+
+
+.p-content{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#020202;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+text-shadow: 0.1em 0.1em 0.2em white;
+
+}
+
+.p-desconforto{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+
+.p-desconforto2{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 18px;
+
+
+
+
+}
+
+
+.p-content2{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+
+
+
+}
+
+
+.p-footer{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.box-contato{
+
+
+
+
+   width:100%;
+   height:340px;
+   border: 2px solid #000;
+
+   padding: 20px;
+
+
+   background-repeat: no-repeat;
+    background-color: #020202;
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+   -o-background-size: cover;
+    position: center;
+    margin: auto;
+
+
+
+
+
+}
+
+.conteudo-primario-cont{
+
+   width:30%;
+   height:80%;
+   /*border: 1px solid #000;*/
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+
+
+.box-disqus{
+
+  width: 50%;
+  height: auto;
+  margin: auto;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MEDIA QUERIES""""*/
+
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (width: 320px) {
+
+   .h1-font{
+
+
+    font-size: 32px;
+
+}
+
+
+ .box-2{
+
+
+   width:100%;
+   overflow: scroll;
+   border: 2px solid #000;
+
+    padding:60px;
+    padding-left: 50px;
+    background-color: #020202;
+    background-image: url(../img/jiu.jpg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    margin: auto;
+    display: block;
+
+}
+
+
+.conteudo-primario{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+
+.conteudo-secon{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+
+}
+
+.conteudo-terc{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+  /*background-color: #151515;
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+.conteudo-quart{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-5{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+.conteudo-6{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-7{
+
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-8{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-9{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+
+
+.conteudo-10{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-11{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-12{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+
+}
+
+
+
+.conteudo-13{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-14{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+
+.box-historia{
+
+   width:100%;
+   height:100%;
+   border: 1px solid #000;
+
+
+   background-color: #020202;
+   position: center;
+   margin: auto;
+   /*background-image: url(../img/jiu.jpg);/
+   background-repeat: no-repeat;
+   position: relative;*/
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+   /*background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+
+
+}
+
+
+
+
+
+.conteudo-footer1{
+
+   width:100%;
+   height:100%;
+
+
+   margin: auto;
+   margin-top: 1%;
+
+
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+.conteudo-footer2{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+   /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer3{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer4{
+
+   width:100%;
+   height:20px;
+   border: 1px solid #000;
+   float: left;
+   padding: 2px;
+
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+
+#social-box{
+
+   width:100%;
+   height: 2%;
+
+
+}
+
+
+
+
+.conteudo-apoio{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+   margin-bottom: 10%;
+
+
+
+}
+
+
+.conteudo-apoio2{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+
+
+
+
+   background-repeat: no-repeat;
+
+}
+
+
+.p-content{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+
+}
+
+.p-desconforto{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+
+.p-desconforto2{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 18px;
+
+
+
+
+}
+
+
+.p-content2{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+
+
+
+}
+
+
+.p-footer{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.box-contato{
+
+
+
+
+   width:100%;
+   height:340px;
+   border: 2px solid #000;
+
+   padding: 20px;
+
+
+   background-repeat: no-repeat;
+    background-color: #020202;
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+   -o-background-size: cover;
+    position: center;
+    margin: auto;
+
+
+
+
+
+}
+
+.conteudo-primario-cont{
+
+   width:30%;
+   height:80%;
+   /*border: 1px solid #000;*/
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+
+
+.box-disqus{
+
+  width: 50%;
+  height: auto;
+  margin: auto;
+
+
+}
+
+
+
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .h1-font{
+
+           font-size: 13px;
+
+
+    }
+
+
+ }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+
+    .h1-font{
+
+           font-size: 52px;
+
+
+    }
+
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+
+    .h1-font{
+
+           font-size: 52px;
+
+
+    }
+
+}
+
+
+
+
+/* #### Mobile Phones Portrait or Landscape #### */
+@media screen and (width: 360px){
+
+.h1-font{
+
+
+    font-size: 32px;
+
+}
+
+
+ .box-2{
+
+
+   width:100%;
+   overflow: scroll;
+   border: 2px solid #000;
+
+    padding:60px;
+    padding-left: 50px;
+    background-color: #020202;
+    background-image: url(../img/jiu.jpg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    margin: auto;
+    display: block;
+
+}
+
+
+.conteudo-primario{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+
+.conteudo-secon{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+
+}
+
+.conteudo-terc{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+  /*background-color: #151515;
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+.conteudo-quart{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-5{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+.conteudo-6{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-7{
+
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-8{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-9{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+
+
+.conteudo-10{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-11{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-12{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+
+}
+
+
+
+.conteudo-13{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-14{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+
+.box-historia{
+
+   width:100%;
+   height:100%;
+   border: 1px solid #000;
+
+
+   background-color: #020202;
+   position: center;
+   margin: auto;
+   /*background-image: url(../img/jiu.jpg);/
+   background-repeat: no-repeat;
+   position: relative;*/
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+   /*background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+
+
+}
+
+
+
+
+
+.conteudo-footer1{
+
+   width:100%;
+   height:100%;
+
+
+   margin: auto;
+   margin-top: 1%;
+
+
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+.conteudo-footer2{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+   /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer3{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer4{
+
+   width:100%;
+   height:20px;
+   border: 1px solid #000;
+   float: left;
+   padding: 2px;
+
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+
+#social-box{
+
+   width:100%;
+   height: 2%;
+
+
+}
+
+
+
+
+.conteudo-apoio{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+   margin-bottom: 10%;
+
+
+
+}
+
+
+.conteudo-apoio2{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+
+
+
+
+   background-repeat: no-repeat;
+
+}
+
+
+.p-content{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+
+}
+
+.p-desconforto{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+
+.p-desconforto2{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 18px;
+
+
+
+
+}
+
+
+.p-content2{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+
+
+
+}
+
+
+.p-footer{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.box-contato{
+
+
+
+
+   width:100%;
+   height:340px;
+   border: 2px solid #000;
+
+   padding: 20px;
+
+
+   background-repeat: no-repeat;
+    background-color: #020202;
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+   -o-background-size: cover;
+    position: center;
+    margin: auto;
+
+
+
+
+
+}
+
+.conteudo-primario-cont{
+
+   width:30%;
+   height:80%;
+   /*border: 1px solid #000;*/
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+
+
+.box-disqus{
+
+  width: 50%;
+  height: auto;
+  margin: auto;
+
+
+}
+
+
+
+}
+
+
+
+
+
+
+/* #### iPhone 4+ Portrait or Landscape #### */
+@media screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+
+
+
+
+
+
+
+}
+
+
+
+/* #### iPhone 6 and 6 plus Portrait or Landscape #### */
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+
+
+
+ .h1-font{
+
+
+    font-size: 32px;
+
+
+}
+
+ .box-2{
+
+
+   width:100%;
+   overflow: scroll;
+   border: 2px solid #000;
+
+    padding:60px;
+    padding-left: 50px;
+    background-color: #020202;
+    background-image: url(../img/jiu.jpg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    margin: auto;
+    display: block;
+
+}
+
+
+.conteudo-primario{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+
+.conteudo-secon{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+
+}
+
+.conteudo-terc{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+  /*background-color: #151515;
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+.conteudo-quart{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-5{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+.conteudo-6{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-7{
+
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-8{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-9{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+
+
+.conteudo-10{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-11{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-12{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+
+}
+
+
+
+.conteudo-13{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-14{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+
+.box-historia{
+
+   width:100%;
+   height:100%;
+   border: 1px solid #000;
+
+
+   background-color: #020202;
+   position: center;
+   margin: auto;
+   /*background-image: url(../img/jiu.jpg);/
+   background-repeat: no-repeat;
+   position: relative;*/
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+   /*background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+
+
+}
+
+
+
+
+
+.conteudo-footer1{
+
+   width:100%;
+   height:100%;
+
+
+   margin: auto;
+   margin-top: 1%;
+
+
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+.conteudo-footer2{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+   /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer3{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer4{
+
+   width:100%;
+   height:20px;
+   border: 1px solid #000;
+   float: left;
+   padding: 2px;
+
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+
+#social-box{
+
+   width:100%;
+   height: 2%;
+
+
+}
+
+
+
+
+.conteudo-apoio{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+   margin-bottom: 10%;
+
+
+
+}
+
+
+.conteudo-apoio2{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+
+
+
+
+   background-repeat: no-repeat;
+
+}
+
+
+.p-content{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+
+}
+
+.p-desconforto{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+
+.p-desconforto2{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 18px;
+
+
+
+
+}
+
+
+.p-content2{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+
+
+
+}
+
+
+.p-footer{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.box-contato{
+
+
+
+
+   width:100%;
+   height:340px;
+   border: 2px solid #000;
+
+   padding: 20px;
+
+
+   background-repeat: no-repeat;
+    background-color: #020202;
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+   -o-background-size: cover;
+    position: center;
+    margin: auto;
+
+
+
+
+
+}
+
+.conteudo-primario-cont{
+
+   width:30%;
+   height:80%;
+   /*border: 1px solid #000;*/
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+
+
+.box-disqus{
+
+  width: 50%;
+  height: auto;
+  margin: auto;
+
+
+}
+
+
+
+
+}
+
+
+
+
+
+/* #### iPhone 5 Portrait or Landscape #### */
+@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+
+
+    .h1-font{
+
+           font-size: 32px;
+
+
+    }
+
+
+ .box-2{
+
+
+   width:100%;
+   overflow: scroll;
+   border: 2px solid #000;
+
+    padding:60px;
+    padding-left: 50px;
+    background-color: #020202;
+    background-image: url(../img/jiu.jpg);
+    background-repeat: no-repeat;
+
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    margin: auto;
+    display: block;
+
+}
+
+
+.conteudo-primario{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+
+.conteudo-secon{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+
+}
+
+.conteudo-terc{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+  /*background-color: #151515;
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+
+}
+
+.conteudo-quart{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-5{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+.conteudo-6{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-7{
+
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+.conteudo-8{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-9{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+}
+
+
+
+.conteudo-10{
+
+   width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-11{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+}
+
+
+
+.conteudo-12{
+
+  width:120px;
+  height:190px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+
+
+
+}
+
+
+
+.conteudo-13{
+
+ width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+.conteudo-14{
+
+  width:120px;
+  height:120px;
+
+   float: left;
+   display: block;
+
+   margin-top:10px;
+   margin-left: 4%;
+   margin-right: 10px;
+
+
+}
+
+
+
+.box-historia{
+
+   width:100%;
+   height:100%;
+   border: 1px solid #000;
+
+
+   background-color: #020202;
+   position: center;
+   margin: auto;
+   /*background-image: url(../img/jiu.jpg);/
+   background-repeat: no-repeat;
+   position: relative;*/
+   /*background-color: rgba(0,0,0,0.5); /*dim the background*/
+   /*background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+
+
+}
+
+
+
+
+
+.conteudo-footer1{
+
+   width:100%;
+   height:100%;
+
+
+   margin: auto;
+   margin-top: 1%;
+
+
+
+
+
+
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+.conteudo-footer2{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+   /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer3{
+
+   width:100%;
+   height:100%;
+   margin: auto;
+   margin-top: 1%;
+
+
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+.conteudo-footer4{
+
+   width:100%;
+   height:20px;
+   border: 1px solid #000;
+   float: left;
+   padding: 2px;
+
+   background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+
+
+
+#social-box{
+
+   width:100%;
+   height: 2%;
+
+
+}
+
+
+
+
+.conteudo-apoio{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+   margin-bottom: 10%;
+
+
+
+}
+
+
+.conteudo-apoio2{
+
+
+   width:100%;
+   height:60%;
+   float: left;
+
+
+
+
+   background-repeat: no-repeat;
+
+}
+
+
+.p-content{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+
+}
+
+.p-desconforto{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+
+.p-desconforto2{
+
+font-family: 'Shadows Into Light', cursive;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 18px;
+
+
+
+
+}
+
+
+.p-content2{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 14px;
+padding: 10px;
+
+
+
+}
+
+
+.p-footer{
+
+
+font-family: 'Montserrat', sans-serif;
+color:#E6E6E6;
+font-weight: normal;
+font-size: 12px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.box-contato{
+
+
+
+
+   width:100%;
+   height:340px;
+   border: 2px solid #000;
+
+   padding: 20px;
+
+
+   background-repeat: no-repeat;
+    background-color: #020202;
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+    background-size: cover;
+   -o-background-size: cover;
+    position: center;
+    margin: auto;
+
+
+
+
+
+}
+
+.conteudo-primario-cont{
+
+   width:30%;
+   height:80%;
+   /*border: 1px solid #000;*/
+   float: left;
+   padding: 2px;
+   margin-left: 3%;
+   margin-top: 1%;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+  /*background-color: #151515;
+  /*opacity: 0.9;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+}
+
+
+
+
+.box-disqus{
+
+  width: 50%;
+  height: auto;
+  margin: auto;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
